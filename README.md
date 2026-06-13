@@ -42,6 +42,30 @@ Clone the repo and open any notebook in Google Colab. Mount your Google Drive an
 git clone https://github.com/crakashp2905-hub/CyberDeception-EVSE.git
 ```
 
+## Results & Visualizations
+
+### Cyber-Deception Interface (Live System)
+| | |
+|---|---|
+| ![Recon detection](images/deception_interface_recon_detection.jpg) | ![OCPP injection](images/deception_interface_ocpp_injection.jpg) |
+| TCP Stealth/SYN Scan detected in real-time | CRITICAL: Malformed OCPP Packet / Injection Attempt |
+
+### Model Results
+![Loss Curve](images/loss_curve.jpg)
+![Feature Correlation](images/feature_correlation_isDoS.jpg)
+
+### Exploratory Data Analysis
+| | |
+|---|---|
+| ![Attack dist](images/eda_attack_distribution.jpg) | ![Attack group](images/eda_attack_group_distribution.jpg) |
+| ![Label dist](images/eda_label_distribution.jpg) | ![State dist](images/eda_state_distribution.jpg) |
+
+### Power Consumption Sensor Distributions
+| | |
+|---|---|
+| ![shunt voltage](images/power_shunt_voltage_dist.jpg) | ![bus voltage](images/power_bus_voltage_dist.jpg) |
+| ![current](images/power_current_dist.jpg) | ![power mW](images/power_mW_dist.jpg) |
+
 ## Requirements
 
 ```

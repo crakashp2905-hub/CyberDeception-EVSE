@@ -1,10 +1,10 @@
 # Research paper — not included in public repo
 *.pdf
 
-# Personal/informal images
-*.jpeg
-*.jpg
-*.png
+# Raw WhatsApp exports at root level (renamed copies live in images/)
+/*.jpeg
+/*.jpg
+/*.png
 
 # Checkpoint outputs from Jupyter
 .ipynb_checkpoints/
