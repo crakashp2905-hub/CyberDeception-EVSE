@@ -1,0 +1,23 @@
+# Research paper — not included in public repo
+*.pdf
+
+# Personal/informal images
+*.jpeg
+*.jpg
+*.png
+
+# Checkpoint outputs from Jupyter
+.ipynb_checkpoints/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+
+# OS artifacts
+.DS_Store
+Thumbs.db
