@@ -104,5 +104,4 @@ If you use this work or the dataset, please cite:
 
 ## License
 
-Code and notebooks in this repository are released under the [MIT License](LICENSE).
 The CICEVSE2024 dataset is subject to its own terms of use — refer to the dataset source for details.
