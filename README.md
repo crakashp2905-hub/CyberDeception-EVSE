@@ -45,7 +45,7 @@ The EVSE dataset covers two physical EVSE devices (EVSE-A, EVSE-B) under 17+ att
 
 **Attack types:** SYN-Flood, TCP-Flood, UDP-Flood, ICMP-Flood, Push-ACK Flood, Port Scan, Aggressive Scan, Vulnerability Scan, SYN-Stealth, OS Fingerprinting, Service Detection, Synonymous IP, Cryptojacking, Backdoor
 
-> Dataset: [EVSE Cybersecurity Dataset — Western-OC2-Lab](https://github.com/Western-OC2-Lab/EVSE-Cybersecurity-Dataset) (not included in this repo)
+> Dataset: CICEVSE2024 (not included in this repo)
 
 ### Notebooks
 
