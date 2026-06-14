@@ -90,3 +90,19 @@ Isolation Forest · Random Forest · XGBoost · Logistic Regression · MLP · LS
 ```
 pandas · numpy · scikit-learn · xgboost · matplotlib · seaborn
 ```
+
+---
+
+## Citation
+
+If you use this work or the dataset, please cite:
+
+**Dataset:**
+> Euclides Carlos Pinto Neto et al., "CICEVSE2024: A Cybersecurity Dataset for Electric Vehicle Supply Equipment," Canadian Institute for Cybersecurity, University of New Brunswick, 2024.
+
+---
+
+## License
+
+Code and notebooks in this repository are released under the [MIT License](LICENSE).
+The CICEVSE2024 dataset is subject to its own terms of use — refer to the dataset source for details.
